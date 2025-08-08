@@ -1,0 +1,79 @@
+[
+  {
+    "command": "No speech dete",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:29:08.171733"
+  },
+  {
+    "command": "user unknown ki dikkat a rahi hai",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:29:38.713077"
+  },
+  {
+    "command": "noise pollution try",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:29:59.419140"
+  },
+  {
+    "command": "noise pollution try",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:30:10.277029"
+  },
+  {
+    "command": "No speech detection",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:56:29.830717"
+  },
+  {
+    "command": "sample recording",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:56:40.513189"
+  },
+  {
+    "command": "why is not chat working",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:56:59.960737"
+  },
+  {
+    "command": "Thoda Sa ismein",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:57:10.911960"
+  },
+  {
+    "command": "sari chijen kar raha hai randi",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:57:21.675352"
+  },
+  {
+    "command": "randi",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:57:33.123638"
+  },
+  {
+    "command": "randi Kah Raha Hai",
+    "intent": "unknown",
+    "user": "unknown",
+    "lang": "en",
+    "timestamp": "2025-08-09T02:57:43.273205"
+  }
+]
